@@ -52,9 +52,5 @@ I beleive that kerala has immense growth potential for start up ecosystem and fo
 - Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
 ---
 
